@@ -1,0 +1,20 @@
+.thumbnail-img-Item {
+  width: 60px;
+  margin: 0px 10px 10px 0px;
+}
+.thumbnail-btn {
+  padding: 0px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+.thumbnail-img {
+  width: 100%;
+}
+
+@media screen and (min-width: 500px) {
+  .thumbnail-img-Item {
+    width: 65px;
+  }
+}
